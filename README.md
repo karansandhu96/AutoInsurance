@@ -76,7 +76,41 @@ This report provides an analysis of insurance policy coverage based on gender, l
 - The revenue is heavily skewed toward suburban areas, likely because of the higher concentration of policyholders in those regions.
 - Urban and rural areas provide significantly less revenue, correlating with their smaller customer bases.
 
----
+
+<img width="500" alt="image" src="https://github.com/user-attachments/assets/7f1d6b9a-7065-40bf-96f1-36d0a46ccebe">
+Sure, let's go through each chart in detail:
+
+### Line Graph: Total Policy Sold by Policy Type and Quarter
+- **Title**: Total Policy Sold by Policy Type and Quarter
+- **Description**: This graph shows the number of policies sold over four quarters. It has three lines representing Basic, Special, and Total policies. The lines fluctuate, indicating changes in the number of policies sold each quarter.
+
+### Area Graph: Average Claim Amount by Policy Type and Month
+- **Title**: Average Claim Amount by Policy Type and Month
+- **Description**: This graph displays the average claim amounts for Basic and Special policies over six months. The trends are increasing, suggesting that the average claim amounts are rising over time.
+
+### Horizontal Bar Graph: Total Number of Customers by Sales Channel
+- **Title**: Total Number of Customers by Sales Channel
+- **Description**: This bar graph shows the number of customers for different sales channels such as Agent, Call Center, Web, and Email. The Agent channel has the highest number of customers.
+
+### Pie Chart: Total Revenue by Sales Channel
+- **Title**: Total Revenue by Sales Channel
+- **Description**: This pie chart illustrates the revenue distribution by sales channel. The largest segment represents Branch at 35.71%, followed by Call Center at 28.57%.
+
+<img width="491" alt="image" src="https://github.com/user-attachments/assets/2132dbfb-bf45-4400-beed-761770834528">
+Sure, let's go through each chart in detail:
+
+### Line Graph: Policy Sold by Sales Channel and Quarter
+- **Title**: Policy Sold by Sales Channel and Quarter
+- **Description**: This graph shows the number of policies sold over four quarters. The x-axis represents the quarters, and the y-axis represents the number of policies sold. The line graph indicates a decreasing trend in policy sales over the four quarters.
+
+### Line Graph: Policy Sold by Vehicle Class and Day
+- **Title**: Policy Sold by Vehicle Class and Day
+- **Description**: This graph displays the number of policies sold by vehicle class over different days. The x-axis represents the days, and the y-axis represents the number of policies sold. The graph shows an overall increasing trend in policy sales by vehicle class over the days.
+
+### Horizontal Bar Graph: Total Policy Sold by Vehicle Class
+- **Title**: Total Policy Sold by Vehicle Class
+- **Description**: This bar graph illustrates the total number of policies sold for different vehicle classes. The y-axis lists the vehicle classes such as SUV, Touring Car, Sports Car, Luxury SUV, etc., and the x-axis represents the total number of policies sold. The lengths of the bars indicate the number of policies sold for each vehicle class, with some classes having higher sales than others.
+
 
 ## **Conclusion**
 - The report shows that **Basic Coverage** is the most popular plan, while **Premium Coverage** offers higher financial benefits per claim but attracts fewer customers.
