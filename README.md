@@ -11,6 +11,7 @@ This report provides an analysis of insurance policy coverage based on gender, l
 ---
 <img width="503" alt="image" src="https://github.com/user-attachments/assets/d8e3148a-a301-4393-81b0-379bdfccb06d">
 <img width="497" alt="image" src="https://github.com/user-attachments/assets/3a894783-c26a-44e2-acb1-3acb5e6abccf">
+
 ## **1. Coverage Breakdown (Basic, Extended, Premium)**
 
 ### **Visual 1: Total Basic Coverage, Total Extended Coverage, and Total Premium Coverage**
@@ -119,6 +120,3 @@ Sure, let's go through each chart in detail:
 - To increase revenue from **Premium Coverage**, insurers could explore offering more value-driven premium products or better marketing of premium plans.
 
 ---
-
-Would you like any further details or adjustments in the report? I can also assist with recommendations or strategy based on these findings. Let me know if you’d like to proceed with that!
-
