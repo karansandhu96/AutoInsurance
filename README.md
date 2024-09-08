@@ -1,5 +1,5 @@
 # AutoInsurance
-Based on the visualizations provided from your Power BI report, here's a comprehensive analysis that can serve as a structured report. I'll break down each insight derived from the visuals and provide an executive summary and conclusions.
+Here is a detailed report on Power BI report, here's a comprehensive analysis that can serve as a structured report. I'll break down each insight derived from the visuals and provide an explaination.
 
 ---
 
