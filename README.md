@@ -1,5 +1,5 @@
 # AutoInsurance
-Here is a detailed report on Power BI report, here's a comprehensive analysis that can serve as a structured report. I'll break down each insight derived from the visuals and provide an explaination.
+Here is a detailed report on Power BI project on Insurance data for a car sales customers, it's a comprehensive analysis that can serve as a structured report. I'll break down each insight derived from the visuals and provide an explaination.
 
 ---
 
